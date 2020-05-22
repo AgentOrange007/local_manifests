@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/ginkgo" remote="github" name="AgentOrange007/android_device_xiaomi_ginkgo-unified" revision="lineage-17.1" />
+  <project path="kernel/xiaomi/ginkgo" remote="github" name="AgentOrange007/android_kernel_ginkgo" revision="lineage-17.1" />
+  <project path="vendor/xiaomi/ginkgo" remote="github" name="AgentOrange007/vendor_xiaomi_ginkgo-1" revision="lineage-17.1" />
+  <project path="vendor/xiaomi/firmware" remote="github" name="AgentOrange007/vendor_xiaomi" revision="ten" />
+  <project path="hardware/qcom/display-caf/sm8150" remote="github" name="AgentOrange007/hardware_qcom-caf_sm8150_display" revision="ten" />
+  <project path="prebuilts/clang/host/linux-x86/clang-11.0" remote="github" name="AgentOrange007/proton-clang" revision="master" />
+  <project path="vendor/MiuiCamera" remote="github" name="AgentOrange007/vendor_MiuiCamera-2"  revision="samsung" />
+</manifest>
